@@ -1,4 +1,7 @@
-# test coverage for  [homebridge-nest (v1.1.2)](https://github.com/kraigm/homebridge-nest#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-nest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-nest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-nest.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-nest)
+# npmtest-homebridge-nest
+
+#### basic test coverage for  [homebridge-nest (v1.1.2)](https://github.com/kraigm/homebridge-nest#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-nest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-nest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-nest.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-nest)
+
 #### Nest plugin for homebridge
 
 [![NPM](https://nodei.co/npm/homebridge-nest.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-nest)
